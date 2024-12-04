@@ -9,6 +9,10 @@ namespace BounceBattle
     class Ball : Sprite
     {
 
+
+
+        
+
         public bool restart;
 
         public Ball(Texture2D texture, Vector2 position, Vector2 direction, float speed, Rectangle screen) : base
